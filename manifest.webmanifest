@@ -1,0 +1,21 @@
+{
+ "name": "IFKA Demo \u2013 Iron Fist Karate Academy",
+ "short_name": "IFKA Demo",
+ "start_url": "/ifka-demo/",
+ "scope": "/ifka-demo/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#af101a",
+ "icons": [
+  {
+   "src": "/ifka-demo/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/ifka-demo/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
